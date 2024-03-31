@@ -15305,7 +15305,37 @@
             "bk": 20,
             "effect": "Flame"
           }
-        }
+        },
+        "lvl_0_tilt": {
+          "id0": {
+            "dmg": 5,
+            "angle": 361,
+            "kg": 100,
+            "wbk": 0,
+            "bk": 20,
+            "effect": "Flame"
+          }
+        },
+        "lvl_4_smash": {
+          "id0": {
+            "dmg": 9,
+            "angle": 361,
+            "kg": 80,
+            "wbk": 0,
+            "bk": 20,
+            "effect": "Flame"
+          }
+        },
+        "lvl_21": {
+          "id0": {
+            "dmg": 26,
+            "angle": 361,
+            "kg": 80,
+            "wbk": 0,
+            "bk": 20,
+            "effect": "Flame"
+          }
+        }   
       },
       "upSpecial": {
         "ground_clean": {
@@ -21284,14 +21314,36 @@
     },
     "Pi": {
       "sideSpecial": {
-        "id0": {
-          "dmg": 4,
-          "angle": 361,
-          "kg": 90,
-          "wbk": 0,
-          "bk": 15,
-          "effect": "Electric"
-        }
+        "lvl_0_tilt": {
+          "id0": {
+            "dmg": 4,
+            "angle": 361,
+            "kg": 90,
+            "wbk": 0,
+            "bk": 15,
+            "effect": "Electric"
+          }
+        },
+        "lvl_3_smash": {
+          "id0": {
+            "dmg": 7,
+            "angle": 361,
+            "kg": 90,
+            "wbk": 0,
+            "bk": 15,
+            "effect": "Electric"
+          }
+        },
+        "lvl_35": {
+          "id0": {
+            "dmg": 39,
+            "angle": 361,
+            "kg": 90,
+            "wbk": 0,
+            "bk": 15,
+            "effect": "Electric"
+          }
+        }        
       },
       "downSpecial": {
         "lightning": {
@@ -22056,13 +22108,35 @@
     },
     "Pk": {
       "sideSpecial": {
-        "id0": {
-          "dmg": 4,
-          "angle": 361,
-          "kg": 90,
-          "wbk": 0,
-          "bk": 15,
-          "effect": "Electric"
+        "lvl_0_tilt": {
+          "id0": {
+            "dmg": 4,
+            "angle": 361,
+            "kg": 90,
+            "wbk": 0,
+            "bk": 15,
+            "effect": "Electric"
+          }
+        },
+        "lvl_5_smash": {
+          "id0": {
+            "dmg": 9,
+            "angle": 361,
+            "kg": 90,
+            "wbk": 0,
+            "bk": 15,
+            "effect": "Electric"
+          }
+        },
+        "lvl_25": {
+          "id0": {
+            "dmg": 29,
+            "angle": 361,
+            "kg": 90,
+            "wbk": 0,
+            "bk": 15,
+            "effect": "Electric"
+          }
         }
       },
       "upSpecial": {
